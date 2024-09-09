@@ -1,0 +1,12 @@
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022 klr.vbproj.AssemblyReference.cache
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022 klr.vbproj.SuggestedBindingRedirects.cache
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022_klr.Resources.resources
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022 klr.vbproj.GenerateResource.cache
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022 klr.vbproj.CoreCompileInputs.cache
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\bin\Debug\vsc2022 klr.exe.config
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\bin\Debug\vsc2022 klr.exe
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\bin\Debug\vsc2022 klr.pdb
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\bin\Debug\vsc2022 klr.xml
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022 klr.exe
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022 klr.xml
+C:\Users\eleve\Desktop\vsc2022\vsc2022 klr\vsc2022 klr\obj\Debug\vsc2022 klr.pdb
